@@ -1,7 +1,7 @@
-# 📚 Gestor de Biblioteca (POO en Python)
+# Tarea-1
 
 Este proyecto implementa un gestor de biblioteca usando
-**Programación Orientada a Objetos (POO)** en Python.\
+Programación Orientada a Objetos (POO)** en Python.\
 Permite agregar, listar, buscar y eliminar libros con almacenamiento en
 un archivo JSON.
 
