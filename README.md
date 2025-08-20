@@ -73,4 +73,8 @@ Ejemplos de uso:
 
 -   Juan David Restrepo Quintero\
 -   Correo: juanrestrepo1113569@correo.itm.edu.co
+<<<<<<< HEAD
+
+=======
+>>>>>>> a7601d2 (Mis cambios locales)
 
